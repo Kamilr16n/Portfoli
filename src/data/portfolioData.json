@@ -5,7 +5,7 @@
     "location": "Blida, Algeria",
     "about": "I'm a passionate web developer with over 3 years of experience creating modern, responsive web applications. I specialize in React, TypeScript, and full-stack development. I love turning complex problems into simple, beautiful, and intuitive solutions. When I'm not coding, you'll find me exploring new technologies or contributing to open-source projects.",
     "profileInitial": "N",
-    "profileImage": "/src/public/myimage.jpg"
+    "profileImage": "/myimage.jpg"
   },
   "skills": [
     "React", "TypeScript", "JavaScript", "Node.js", "Django", "Express.js",
@@ -53,11 +53,11 @@
       "title": "Events managmant and Tickets selling platform ",
       "description": " this project is web platform for events managment and tickets selling it was for an agency named new world digital front end react backend django its m biggest project it took me 4 months it has admin panel events organazer panel and user panel i used react with typescript tailwind css all componants where made no external componants library used, used 3d with spline too it was fun it was hosted on an ubuntu vps with nginx and docker",
       "tech": ["React", "Node.js", "django", "PostgreSQL", "Tailwind CSS", "spline.com"],
-      "image": "/src/public/eventsproject/p1.jpg",
+      "image": "/eventsproject/p1.jpg",
       "gallery": [
-        "/src/public/eventsproject/p1.jpg",
-        "/src/public/eventsproject/p2.jpg",
-        "/src/public/eventsproject/p3.jpg"
+        "/eventsproject/p1.jpg",
+        "/eventsproject/p2.jpg",
+        "/eventsproject/p3.jpg"
       ],
       "type": "website"
     },
@@ -65,10 +65,10 @@
       "title": "Professional Domain Name Consultation Platform ",
       "description": "A modern web application that helps users find, inquire about, and purchase premium domain names with expert guidance. The platform features a comprehensive domain search functionality, detailed domain listings with pricing and categories, inquiry forms for specific domains, and professional consultation services. Built with Next.js and React, the application offers a responsive, user-friendly interface for domain name discovery and acquisition with personalized support.",
       "tech": ["Next.js", "TypeScript", "Prisma", "Tailwind CSS", "React", "supabase"],
-      "image": "/src/public/domainportfolio/p1.png",
+      "image": "/domainportfolio/p1.png",
       "gallery": [
-        "/src/public/domainportfolio/p1.png",
-        "/src/public/domainportfolio/p2.png"
+        "/domainportfolio/p1.png",
+        "/domainportfolio/p2.png"
       ],
       "type": "website"
     },
@@ -76,11 +76,11 @@
       "title": "DAR EL FARAH - Wedding Venue Marketplace",
       "description": "DAR EL FARAH is a wedding venue marketplace connecting Algerian couples with venue owners. Built with Django and React, it offers secure logins, searchable venues with filters, interactive maps, detailed listings, and photo galleries. Couples can explore and compare venues, while owners showcase and manage their properties. Powered by React (TypeScript), TailwindCSS, Django REST, PostgreSQL, and JWT.",
       "tech": ["React", "PostgreSQL", "django", "Tailwind CSS", "google maps"],
-      "image": "/src/public/weddingproject/p1.png",
+      "image": "/weddingproject/p1.png",
       "gallery": [
-        "/src/public/weddingproject/p1.png",
-        "/src/public/weddingproject/p2.png",
-        "/src/public/weddingproject/p3.png"
+        "/weddingproject/p1.png",
+        "/weddingproject/p2.png",
+        "/weddingproject/p3.png"
       ],
       "type": "website"
     }
@@ -88,6 +88,6 @@
   "social": {
     "linkedin": "https://www.linkedin.com/in/nassreddine-larbi-aissa-691063304?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     "email": "larbiaissanassreddine@gmail.com",
-    "resume": "/src/public/Resume Nassreddine Larbi Aissa.pdf"
+    "resume": "/Resume Nassreddine Larbi Aissa.pdf"
   }
 }
