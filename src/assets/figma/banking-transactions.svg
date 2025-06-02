@@ -1,0 +1,50 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="600" fill="#1e1e1e"/>
+  <text x="400" y="80" font-family="Arial" font-size="32" fill="#ffffff" text-anchor="middle">Mobile Banking App - Transactions</text>
+  
+  <!-- Phone frame -->
+  <rect x="250" y="120" width="300" height="450" rx="20" fill="#2a2a2a" stroke="#3a3a3a" stroke-width="10"/>
+  
+  <!-- Status bar -->
+  <rect x="270" y="140" width="260" height="30" rx="5" fill="#1e1e1e"/>
+  <circle cx="290" cy="155" r="5" fill="#ffffff"/>
+  <rect x="300" y="152" width="30" height="6" rx="3" fill="#ffffff"/>
+  <rect x="480" y="152" width="30" height="6" rx="3" fill="#ffffff"/>
+  
+  <!-- Header -->
+  <rect x="270" y="180" width="260" height="60" rx="10" fill="#4a90e2"/>
+  <text x="400" y="215" font-family="Arial" font-size="18" fill="#ffffff" text-anchor="middle">Transactions</text>
+  
+  <!-- Filter tabs -->
+  <rect x="270" y="250" width="260" height="40" rx="5" fill="#1e1e1e"/>
+  <rect x="280" y="255" width="70" height="30" rx="15" fill="#4a90e2"/>
+  <text x="315" y="275" font-family="Arial" font-size="12" fill="#ffffff" text-anchor="middle">All</text>
+  
+  <text x="370" y="275" font-family="Arial" font-size="12" fill="#999999" text-anchor="middle">Income</text>
+  <text x="440" y="275" font-family="Arial" font-size="12" fill="#999999" text-anchor="middle">Expense</text>
+  
+  <!-- Transaction list -->
+  <rect x="270" y="300" width="260" height="60" rx="5" fill="#2a2a2a"/>
+  <circle cx="295" cy="330" r="15" fill="#4a90e2"/>
+  <text x="330" y="325" font-family="Arial" font-size="14" fill="#ffffff">Coffee Shop</text>
+  <text x="330" y="345" font-family="Arial" font-size="12" fill="#999999">Today, 9:30 AM</text>
+  <text x="500" y="330" font-family="Arial" font-size="14" fill="#ff3b30" text-anchor="end">-$4.50</text>
+  
+  <rect x="270" y="370" width="260" height="60" rx="5" fill="#2a2a2a"/>
+  <circle cx="295" cy="400" r="15" fill="#7ed321"/>
+  <text x="330" y="395" font-family="Arial" font-size="14" fill="#ffffff">Salary</text>
+  <text x="330" y="415" font-family="Arial" font-size="12" fill="#999999">Yesterday, 8:00 AM</text>
+  <text x="500" y="400" font-family="Arial" font-size="14" fill="#7ed321" text-anchor="end">+$2,450.00</text>
+  
+  <rect x="270" y="440" width="260" height="60" rx="5" fill="#2a2a2a"/>
+  <circle cx="295" cy="470" r="15" fill="#ff3b30"/>
+  <text x="330" y="465" font-family="Arial" font-size="14" fill="#ffffff">Grocery Store</text>
+  <text x="330" y="485" font-family="Arial" font-size="12" fill="#999999">Yesterday, 6:30 PM</text>
+  <text x="500" y="470" font-family="Arial" font-size="14" fill="#ff3b30" text-anchor="end">-$65.20</text>
+  
+  <!-- Bottom navigation -->
+  <rect x="270" y="510" width="260" height="50" rx="5" fill="#1e1e1e"/>
+  <circle cx="310" cy="535" r="5" fill="#ffffff"/>
+  <circle cx="380" cy="535" r="5" fill="#4a90e2"/>
+  <circle cx="450" cy="535" r="5" fill="#ffffff"/>
+</svg>

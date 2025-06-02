@@ -1,0 +1,93 @@
+{
+  "personalInfo": {
+    "name": "Nassreddine Larbi Aissa",
+    "title": "Web Developer (full stack / web design)",
+    "location": "Blida, Algeria",
+    "about": "I'm a passionate web developer with over 3 years of experience creating modern, responsive web applications. I specialize in React, TypeScript, and full-stack development. I love turning complex problems into simple, beautiful, and intuitive solutions. When I'm not coding, you'll find me exploring new technologies or contributing to open-source projects.",
+    "profileInitial": "N",
+    "profileImage": "/src/assets/myimage.jpg"
+  },
+  "skills": [
+    "React", "TypeScript", "JavaScript", "Node.js", "Django", "Express.js",
+    "Next.js", "Tailwind CSS", "Git", "Docker", "PostgreSQL",
+    "REST APIs", "Socket.io", "Prisma", "AWS", "Firebase", "Redux", "Ecommerce Website",
+   "Web Application",
+    "Web Development",
+    "Hosting Setup",
+    "Web Hosting",
+    "WordPress",
+    "Front-End Development",
+    "Front-End Development Framework",
+    "React",
+    "Ubuntu",
+    "Linux",
+    "JavaScript",
+    "Tailwind CSS",
+    "Web Design",
+    "WordPress Backup"
+  ],
+  "education": [
+    {
+      "degree": "Bachelor's degree in Web development and multimedia",
+      "school": "National Institute of Graphic Arts and Industries, Blida",
+      "date": "2022 - 2025",
+      "description": "Specialized in web development and multimedia design (graphic design)"
+    },
+    {
+      "degree": "accounting",
+      "school": "Mohamed Boudief El Affroune Secondary School, Algeria",
+      "date": "2015 - 2019",
+      "description": "studied accounting but it wasn't my feild i didn't like it so i stopped"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Full Stack Developer",
+      "company": "New world Digital Agency",
+      "date": "2024 - 2025",
+      "description": "Developed end-to-end web applications using React, django, and postgresql. designed and coded the whole project."
+    }
+  ],
+  "projects": [
+    {
+      "title": "Events managmant and Tickets selling platform ",
+      "description": " this project is web platform for events managment and tickets selling it was for an agency named new world digital front end react backend django its m biggest project it took me 4 months it has admin panel events organazer panel and user panel i used react with typescript tailwind css all componants where made no external componants library used, used 3d with spline too it was fun it was hosted on an ubuntu vps with nginx and docker",
+      "tech": ["React", "Node.js", "django", "PostgreSQL", "Tailwind CSS", "spline.com"],
+      "image": "/src/assets/eventsproject/p1.jpg",
+      "gallery": [
+        "/src/assets/eventsproject/p1.jpg",
+        "/src/assets/eventsproject/p2.jpg",
+        "/src/assets/eventsproject/p3.jpg"
+      ],
+      "type": "website"
+    },
+    {
+      "title": "Professional Domain Name Consultation Platform ",
+      "description": "A modern web application that helps users find, inquire about, and purchase premium domain names with expert guidance. The platform features a comprehensive domain search functionality, detailed domain listings with pricing and categories, inquiry forms for specific domains, and professional consultation services. Built with Next.js and React, the application offers a responsive, user-friendly interface for domain name discovery and acquisition with personalized support.",
+      "tech": ["Next.js", "TypeScript", "Prisma", "Tailwind CSS", "React", "supabase"],
+      "image": "/src/assets/domainportfolio/p1.png",
+      "gallery": [
+        "/src/assets/domainportfolio/p1.png",
+        "/src/assets/domainportfolio/p2.png"
+      ],
+      "type": "website"
+    },
+    {
+      "title": "DAR EL FARAH - Wedding Venue Marketplace",
+      "description": "DAR EL FARAH is a wedding venue marketplace connecting Algerian couples with venue owners. Built with Django and React, it offers secure logins, searchable venues with filters, interactive maps, detailed listings, and photo galleries. Couples can explore and compare venues, while owners showcase and manage their properties. Powered by React (TypeScript), TailwindCSS, Django REST, PostgreSQL, and JWT.",
+      "tech": ["React", "PostgreSQL", "django", "Tailwind CSS", "google maps"],
+      "image": "/src/assets/weddingproject/p1.png",
+      "gallery": [
+        "/src/assets/weddingproject/p1.png",
+        "/src/assets/weddingproject/p2.png",
+        "/src/assets/weddingproject/p3.png"
+      ],
+      "type": "website"
+    }
+  ],
+  "social": {
+    "linkedin": "https://www.linkedin.com/in/nassreddine-larbi-aissa-691063304?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    "email": "larbiaissanassreddine@gmail.com",
+    "resume": "/src/assets/Resume Nassreddine Larbi Aissa.pdf"
+  }
+}

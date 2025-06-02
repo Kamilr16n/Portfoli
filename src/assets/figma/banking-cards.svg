@@ -1,0 +1,41 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="600" fill="#1e1e1e"/>
+  <text x="400" y="80" font-family="Arial" font-size="32" fill="#ffffff" text-anchor="middle">Mobile Banking App - Cards</text>
+  
+  <!-- Phone frame -->
+  <rect x="250" y="120" width="300" height="450" rx="20" fill="#2a2a2a" stroke="#3a3a3a" stroke-width="10"/>
+  
+  <!-- Status bar -->
+  <rect x="270" y="140" width="260" height="30" rx="5" fill="#1e1e1e"/>
+  <circle cx="290" cy="155" r="5" fill="#ffffff"/>
+  <rect x="300" y="152" width="30" height="6" rx="3" fill="#ffffff"/>
+  <rect x="480" y="152" width="30" height="6" rx="3" fill="#ffffff"/>
+  
+  <!-- Header -->
+  <rect x="270" y="180" width="260" height="60" rx="10" fill="#4a90e2"/>
+  <text x="400" y="215" font-family="Arial" font-size="18" fill="#ffffff" text-anchor="middle">My Cards</text>
+  
+  <!-- Card 1 -->
+  <rect x="270" y="250" width="260" height="160" rx="15" fill="#4a90e2"/>
+  <text x="290" y="280" font-family="Arial" font-size="14" fill="#ffffff">Debit Card</text>
+  <text x="290" y="310" font-family="Arial" font-size="18" fill="#ffffff">**** **** **** 1234</text>
+  <text x="290" y="340" font-family="Arial" font-size="14" fill="#ffffff">Valid thru: 12/25</text>
+  <text x="290" y="370" font-family="Arial" font-size="14" fill="#ffffff">John Doe</text>
+  <circle cx="500" cy="280" r="20" fill="#ffffff" fill-opacity="0.2"/>
+  <circle cx="480" cy="280" r="20" fill="#ffffff" fill-opacity="0.2"/>
+  
+  <!-- Card 2 (partially visible) -->
+  <rect x="270" y="430" width="260" height="60" rx="15" fill="#f5a623"/>
+  <text x="290" y="465" font-family="Arial" font-size="14" fill="#ffffff">Credit Card</text>
+  <text x="450" y="465" font-family="Arial" font-size="14" fill="#ffffff" text-anchor="end">*1234</text>
+  
+  <!-- Add card button -->
+  <rect x="270" y="500" width="260" height="50" rx="10" fill="#2a2a2a" stroke="#4a90e2" stroke-width="2" stroke-dasharray="5,5"/>
+  <text x="400" y="530" font-family="Arial" font-size="16" fill="#4a90e2" text-anchor="middle">+ Add New Card</text>
+  
+  <!-- Bottom navigation -->
+  <rect x="270" y="560" width="260" height="50" rx="5" fill="#1e1e1e"/>
+  <circle cx="310" cy="585" r="5" fill="#ffffff"/>
+  <circle cx="380" cy="585" r="5" fill="#ffffff"/>
+  <circle cx="450" cy="585" r="5" fill="#4a90e2"/>
+</svg>
